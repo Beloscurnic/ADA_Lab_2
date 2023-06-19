@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i77/IbbwruyM4VKX8aahD/JYSoRzZRREtdb7M/y6tOLPuulkz94LwPIky6K01Pixj16flbMGZCw0cdmw1YvliA==",
+  "success": true,
+  "projectFilePath": "C:\\lab_2\\Charp\\Charp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belos\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\belos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\belos\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\belos\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\belos\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
